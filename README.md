@@ -31,13 +31,13 @@ There are a plethora of modules within MS Learn ranging from incredibly difficul
 
 ### Programming Languages
 
-- [ ] [Python](https://docs.microsoft.com/en-us/learn/paths/beginner-python/) is an incredibly useful scripting language used widely in the data science community, but is also useful for creating small pieces of supportive code
-- [ ] [C#](https://docs.microsoft.com/en-us/learn/paths/csharp-first-steps/) is a programming language created by Microsoft and is used in a wide range of industry applications from front-end web applications to back-end APIs. Often combined with [.NET](https://dotnet.microsoft.com/en-us/learn/dotnet/what-is-dotnet) which is an open source developer platform, created by Microsoft, for building many different types of applications.
+- [X] [Python](https://docs.microsoft.com/en-us/learn/paths/beginner-python/) is an incredibly useful scripting language used widely in the data science community, but is also useful for creating small pieces of supportive code
+- [X] [C#](https://docs.microsoft.com/en-us/learn/paths/csharp-first-steps/) is a programming language created by Microsoft and is used in a wide range of industry applications from front-end web applications to back-end APIs. Often combined with [.NET](https://dotnet.microsoft.com/en-us/learn/dotnet/what-is-dotnet) which is an open source developer platform, created by Microsoft, for building many different types of applications.
 
 ### Web Development
 
 - [ ] [HTML & CSS](https://docs.microsoft.com/en-us/learn/modules/build-simple-website/) are the backbone of any web-page. Knowing what these are and how they are structured is fundamental for doing any web development work.
-- [ ] [JavaScript](https://docs.microsoft.com/en-us/learn/paths/web-development-101/) is the fundamental language for running code on the browser. This is what is leveraged (usually) to create rich and seamless user interfaces and experiences on the web.
+- [X] [JavaScript](https://docs.microsoft.com/en-us/learn/paths/web-development-101/) is the fundamental language for running code on the browser. This is what is leveraged (usually) to create rich and seamless user interfaces and experiences on the web.
 - [ ] [TypeScript](https://docs.microsoft.com/en-us/learn/paths/build-javascript-applications-typescript/) is an open-source language by Microsoft which builds upon the original syntax of JavaScript. It provides features such as static type definitions, classes and interfaces which makes it easier for developers to resolve issues, as your application becomes larger. **NOTE** - **ONLY THE FIRST 4 MODULES ARE ESPECIALLY USEFUL** - The remaining content is more advanced, and is unlikely to come up in our use-case for TS starting out. If you feel like you need additional knowledge, go ahead and finish this learning path - we're not going to stop you :smile:
 - [ ] [React](https://docs.microsoft.com/en-us/learn/paths/react/) is a highly versatile view engine used to combine HTML, CSS and JS into one cohesive block (known as _components_). This makes web development much more streamlined and efficient when making changes to the UI. **NOTE** - **IGNORE THIS [PAGE](https://docs.microsoft.com/en-us/learn/modules/react-states-events/4-events)**
 
